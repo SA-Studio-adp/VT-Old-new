@@ -1,0 +1,1 @@
+[21-Jul-25 07:21:37 AM] [ERROR] - BOT_TOKEN variable is missing! Exiting now
